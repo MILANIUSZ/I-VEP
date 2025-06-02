@@ -5,7 +5,7 @@ ivep_optuna.py
 
 Author: Milan Andras Fodor (@milaniusz)
 Project: https://github.com/MILANIUSZ/I-VEP
-Optuna search for I-cVEP decoding GAT-CNN model with 4 electrodes only
+Optuna search for I-cVEP decoding GAT-CNN model with 4 electrodes only, mixed data
 """
 
 import argparse
