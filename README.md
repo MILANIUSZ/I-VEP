@@ -14,9 +14,8 @@ This repository contains all code, data‑processing scripts, and instructions t
   Outputs per‑fold `.h5` models, `.json` hyperparameters, and a summary `results.csv`.
 
 2. **Leave‑One‑Trial‑Out SVC baseline**: `I-cVEP_SVC_decodability_check.py`
-  Implements a subject‑agnostic SVM baseline with causal Hilbert‑based features:
-  - Automatic comma/tab detection
-  - Trial segmentation via `perfect_mseq_label`
+  Implements a subject‑agnostic SVM (offline) baseline with causal Hilbert‑based features:
+  - Trial segmentation based on m-sequnce labels
   - Band‑power (env + harmonics), low‑freq, and flip‑potential features
   - Leave‑One‑Trial‑Out cross‑validation  
   Prints per‑file LOTO and overall bit‑accuracy, with an optional verbose mode.
@@ -25,3 +24,4 @@ This repository contains all code, data‑processing scripts, and instructions t
 If you use this code, please cite:
 Fodor, M. A., & Volosyak, I. (2025).
 Towards Visual‑Fatigue‑Free BCI with Imperceptible Visual Evoked Potentials (I‑VEP). In Proceedings of IEEE SMC 2025.
+DOI: tba
