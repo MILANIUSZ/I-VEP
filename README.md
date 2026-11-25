@@ -1,4 +1,9 @@
+
 # I‑VEP: Imperceptible Visual Evoked Potentials
+
+> **Note:** If you are interested in advancing imperceptible visual stimulation for BCIs, please refer to my new repository: **[VEP360](https://github.com/MILANIUSZ/VEP360)**, which contains significantly more advanced decoding approaches and deeper insights compared to this initial feasibility study.
+
+
 
 **Authors:** Milán András Fodor, Ivan Volosyak  
 **Paper:** “Towards Visual‑Fatigue‑Free BCI with Imperceptible Visual Evoked Potentials (I‑VEP)” (SMC 2025)
