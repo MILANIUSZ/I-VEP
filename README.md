@@ -4,7 +4,7 @@
 > [!CAUTION]
 > ## Looking for Imperceptible Visual Stimulation for BCIs?
 > **This repository only contains an initial feasibility test.**  
-> Please refer to my new repository — **[github.com/MILANIUSZ/VEP360](https://github.com/MILANIUSZ/VEP360)** — which contains significantly more advanced decoding approaches and deeper insights.
+> Please refer to my new repository — **[github.com/MILANIUSZ/VEP360](https://github.com/MILANIUSZ/VEP360)** — which contains significantly more advanced stimuli ideas, refined decoding approaches  and deeper insights.
 
 **Authors:** Milán András Fodor, Ivan Volosyak  
 **Paper:** “Towards Visual‑Fatigue‑Free BCI with Imperceptible Visual Evoked Potentials (I‑VEP)” (SMC 2025)
