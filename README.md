@@ -1,7 +1,7 @@
 
 # I‑VEP: Imperceptible Visual Evoked Potentials
 
-> **Note:** If you are interested in advancing imperceptible visual stimulation for BCIs, please refer to my new repository: **[VEP360](https://github.com/MILANIUSZ/VEP360)**, which contains significantly more advanced decoding approaches and deeper insights compared to this initial feasibility study.
+> **Note:** If you are interested in advancing imperceptible visual stimulation for BCIs, please refer to my new repository: **[VEP360](https://github.com/MILANIUSZ/VEP360)**, which contains significantly more advanced stimuli paradigms, decoding approaches and deeper insights compared to this initial feasibility study.
 
 
 
